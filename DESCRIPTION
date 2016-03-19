@@ -1,0 +1,11 @@
+Package: CellSignalingTools
+Type: Package
+Title: Analysis of Images for Molecular Biology Applications  
+Version: 1.1
+Date: 2016-03-10
+Author: Damiano Fantini
+Maintainer: Damiano Fantini <damiano.fantini@gmail.com>
+Description: Analyze images generated via molecular and cellular biology techniques. Process Immunofluorescence stacked images and determine nuclear to cytoplasmic signal ratios.
+Depends: R (>= 3.1.0), graphics, gplots
+Suggests: tiff
+License: GPL-2
